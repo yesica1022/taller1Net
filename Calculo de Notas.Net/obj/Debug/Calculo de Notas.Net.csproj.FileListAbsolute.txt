@@ -1,0 +1,22 @@
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\Calculo de Notas.Net\Calculo de Notas.Net\bin\Debug\Calculo de Notas.Net.exe.config
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\Calculo de Notas.Net\Calculo de Notas.Net\bin\Debug\Calculo de Notas.Net.exe
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\Calculo de Notas.Net\Calculo de Notas.Net\bin\Debug\Calculo de Notas.Net.pdb
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo de Notas.Net.csprojAssemblyReference.cache
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo_de_Notas.Net.Form1.resources
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo_de_Notas.Net.Properties.Resources.resources
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo de Notas.Net.csproj.GenerateResource.cache
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo de Notas.Net.csproj.CoreCompileInputs.cache
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo de Notas.Net.exe
+C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo de Notas.Net.pdb
+C:\Users\yessi\OneDrive\Documentos\PROGRAMACION\Calculo de Notas.Net\Calculo de Notas.Net\bin\Debug\Calculo de Notas.Net.exe.config
+C:\Users\yessi\OneDrive\Documentos\PROGRAMACION\Calculo de Notas.Net\Calculo de Notas.Net\bin\Debug\Calculo de Notas.Net.exe
+C:\Users\yessi\OneDrive\Documentos\PROGRAMACION\Calculo de Notas.Net\Calculo de Notas.Net\bin\Debug\Calculo de Notas.Net.pdb
+C:\Users\yessi\OneDrive\Documentos\PROGRAMACION\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo de Notas.Net.csprojAssemblyReference.cache
+C:\Users\yessi\OneDrive\Documentos\PROGRAMACION\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo_de_Notas.Net.Form1.resources
+C:\Users\yessi\OneDrive\Documentos\PROGRAMACION\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo_de_Notas.Net.Form2.resources
+C:\Users\yessi\OneDrive\Documentos\PROGRAMACION\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo_de_Notas.Net.PpalMdi.resources
+C:\Users\yessi\OneDrive\Documentos\PROGRAMACION\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo_de_Notas.Net.Properties.Resources.resources
+C:\Users\yessi\OneDrive\Documentos\PROGRAMACION\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo de Notas.Net.csproj.GenerateResource.cache
+C:\Users\yessi\OneDrive\Documentos\PROGRAMACION\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo de Notas.Net.csproj.CoreCompileInputs.cache
+C:\Users\yessi\OneDrive\Documentos\PROGRAMACION\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo de Notas.Net.exe
+C:\Users\yessi\OneDrive\Documentos\PROGRAMACION\Calculo de Notas.Net\Calculo de Notas.Net\obj\Debug\Calculo de Notas.Net.pdb

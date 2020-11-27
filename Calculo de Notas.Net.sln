@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo de Notas.Net", "Calculo de Notas.Net\Calculo de Notas.Net.csproj", "{D70B7535-EB4D-4A39-B530-8E3093287CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70B7535-EB4D-4A39-B530-8E3093287CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70B7535-EB4D-4A39-B530-8E3093287CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70B7535-EB4D-4A39-B530-8E3093287CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70B7535-EB4D-4A39-B530-8E3093287CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {487F28D3-22A2-4C69-95A5-87C4BCF2B8F0}
+	EndGlobalSection
+EndGlobal

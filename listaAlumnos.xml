@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAlumno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Alumno>
+    <Codigo>3</Codigo>
+    <Nombre>3</Nombre>
+    <Correo>3</Correo>
+    <Nota1>3</Nota1>
+    <Nota2>3</Nota2>
+    <Nota3>3</Nota3>
+    <Nota4>3</Nota4>
+    <NotaFinal>3</NotaFinal>
+    <NotaConsepto>Reprobado</NotaConsepto>
+  </Alumno>
+</ArrayOfAlumno>
